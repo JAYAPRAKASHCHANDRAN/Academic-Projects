@@ -1,1 +1,1 @@
-Analaysis on cfd car for formulate.
+I am a passionate engineer aspiring to excel in vehicle design, CFD analysis, FEA (Finite Element Analysis), and manufacturing design. I have diligently prepared myself to thrive in these areas. Throughout my master's program, I have undertaken numerous projects within these domains. Please feel free to explore my work; I welcome any inquiries or discussions related to them.
